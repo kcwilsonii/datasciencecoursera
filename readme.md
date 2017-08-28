@@ -1,6 +1,6 @@
 Peer Review Week 4 
 
-I was not usre how they wanted the Training and test data merged so I
+I was not sure how they wanted the Training and test data merged so I
 just merged the files fo those disparate data sets into one data set 
 for training and one for test data
 
