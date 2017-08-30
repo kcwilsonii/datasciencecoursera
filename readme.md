@@ -27,7 +27,7 @@ Next read in data for test Data:
 
 Combine data into one data set
 
-   Next reduce data sets to needed columns for mans
+   Next reduce data sets to needed columns for means and std
 
    using grep to specify the columns needed for std and mean variables plus the header data.
 
